@@ -77,7 +77,7 @@ function checkAgeAbove25() {
       return;
     }
   }
-  console.log("no peron found older than 25 years");
+  console.log("no person found older than 25 years");
 }
 
 // 7. Unique Professions
